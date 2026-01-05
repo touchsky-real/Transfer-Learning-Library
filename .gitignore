@@ -133,3 +133,7 @@ examples/domain_adaptation/digits/logs/*
 examples/domain_adaptation/digits/data/*
 +.DS_Store
 */.DS_Store
+
+
+examples/domain_adaptation/image_classification/data/*
+examples/domain_adaptation/image_classification/logs/*
